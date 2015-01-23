@@ -1,0 +1,9 @@
+[submodule "pvslib"]
+	path = pvslib
+	url = https://github.com/nasa/pvslib.git
+[submodule "Kodiak"]
+	path = Kodiak
+	url = https://github.com/nasa/Kodiak.git
+[submodule "RCC"]
+	path = RCC
+	url = https://github.com/GaloisInc/RCC.git
